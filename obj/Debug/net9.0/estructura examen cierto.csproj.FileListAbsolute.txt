@@ -1,0 +1,14 @@
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.AssemblyInfoInputs.cache
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.AssemblyInfo.cs
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.csproj.CoreCompileInputs.cache
+C:\Users\pibed\Downloads\estructura examen cierto\bin\Debug\net9.0\estructura examen cierto.exe
+C:\Users\pibed\Downloads\estructura examen cierto\bin\Debug\net9.0\estructura examen cierto.deps.json
+C:\Users\pibed\Downloads\estructura examen cierto\bin\Debug\net9.0\estructura examen cierto.runtimeconfig.json
+C:\Users\pibed\Downloads\estructura examen cierto\bin\Debug\net9.0\estructura examen cierto.dll
+C:\Users\pibed\Downloads\estructura examen cierto\bin\Debug\net9.0\estructura examen cierto.pdb
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.dll
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\refint\estructura examen cierto.dll
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.pdb
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\estructura examen cierto.genruntimeconfig.cache
+C:\Users\pibed\Downloads\estructura examen cierto\obj\Debug\net9.0\ref\estructura examen cierto.dll
